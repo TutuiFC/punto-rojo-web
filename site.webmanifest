@@ -1,0 +1,21 @@
+{
+  "name": "Punto Rojo",
+  "short_name": "Punto Rojo",
+  "lang": "es",
+  "start_url": "./",
+  "display": "browser",
+  "theme_color": "#c8102e",
+  "background_color": "#fafafa",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
